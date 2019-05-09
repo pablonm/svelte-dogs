@@ -1,0 +1,4 @@
+.header.svelte-14ro386 .svelte-14ro386{text-align:center}.header.svelte-14ro386>h1.svelte-14ro386{font-size:60px;margin-bottom:0}.header.svelte-14ro386>h2.svelte-14ro386{margin-top:0;font-size:20px;color:darkgrey}.dogs.svelte-14ro386{display:flex;justify-content:center}.dogCount.svelte-14ro386{text-align:center;margin:20px}.dogCount.svelte-14ro386>span.svelte-14ro386{font-size:20px}
+.dog.svelte-14n6j7n{border:1px solid black;margin:10px;overflow:hidden;width:300px;height:200px;text-align:center;background:black;cursor:pointer}.dog.svelte-14n6j7n>img.svelte-14n6j7n{max-height:100%;max-width:100%}.loading.svelte-14n6j7n{height:100%;text-align:center;transform:scale(0.5);animation:1s svelte-14n6j7n-loading ease-out;filter:invert(100%)}@keyframes svelte-14n6j7n-loading{from{transform:scale(0.5);opacity:1}to{transform:scale(0.7);opacity:0.5}}
+
+/*# sourceMappingURL=bundle.css.map */
