@@ -1,6 +1,9 @@
 # Svelte example app
 
 An app about dogs to test the basic usage of [Svelte](https://svelte.dev)
+
+##### Live
+
 Live at [https://svelte-dogs-e9y4ed6oa.now.sh/](https://svelte-dogs-e9y4ed6oa.now.sh/)
 
 ## Run the application
