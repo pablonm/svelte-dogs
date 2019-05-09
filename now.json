@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "name": "svelte-dogs",
+  "builds": [{ "src": "public/index.html", "use": "@now/static" }]
+}
